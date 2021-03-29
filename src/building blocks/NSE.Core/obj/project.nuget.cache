@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uPI5+Klj5wNwScDU/Rt7mxEc6bT3a0fzuedWh6iiof6lfVCccUkUgaYf0R9CRkWsusj2ngH6mvcZUlxzJsfBwA==",
+  "success": true,
+  "projectFilePath": "/home/fabio/Downloads/Estudo.Net/NerdStoreEnterprise/src/building blocks/NSE.Core/NSE.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/fabio/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/fabio/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
